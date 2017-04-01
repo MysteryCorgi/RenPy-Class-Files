@@ -141,7 +141,7 @@ init:
  
  # The following positions a character between the center and rigth of the screen.       
     transform centerright:
-        xpos 0.45
+        xpos 0.65
         yanchor 1.0
         ypos 1.0
 
