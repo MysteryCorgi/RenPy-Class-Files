@@ -3,7 +3,8 @@
 ####################
 # The script of the game goes in this file. I recommend splitting up the script into multiple files.
 # The following file is what I use for initializing the Visual Novel setting, including Characters, Sprites, BGs, CGs, animations, and transforms.
-# I then call another script file, script1.rpy 
+# I then call another script file, script1.rpy to insert the game's main story code. I often break it up into several script files. script2.rpy and onwards.
+# The longest script I've had was from script.rpy to script10.rpy
 
 # Also, anything with a # in front of it is a comment, and thus will not be interpreted by the engine when the game is executed.
 
